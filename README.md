@@ -1,6 +1,6 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0 and is no more than a test project made according to the instructions from https://angular.io/guide/forms
 
 ## Development server
 
